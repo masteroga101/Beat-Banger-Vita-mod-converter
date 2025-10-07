@@ -12,7 +12,7 @@ A multi purpose tool designed for the beat banger ps vita port
 
 4. Click on the bar to the left of your search bar and you should be given a file location, copy and paste this into the converter and press enter
 
-5. Wait until the all the mods are sorted through and command prompt has vanished, then go back to where you staored your mods and they should all be set for moving onto the vita
+5. Wait until the all the mods are sorted through and command prompt has vanished, then go back to where you stored your mods and they should all be set for moving onto the vita
 
 
 
