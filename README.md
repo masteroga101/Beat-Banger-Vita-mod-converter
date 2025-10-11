@@ -29,3 +29,5 @@ so legacy and demo mods dont run natively on beatbanger release however there ar
 1. Oldish beat banger builds, id recommend a february 2025 build, drag zipped legacy mods onto the screen and the game should convert them automatically and output them in your mods folder
 
 2. a community made converter, i modified the biggest one to be less abysmally dogshit but it still isnt perfect, donwload can be found [here](https://drive.google.com/file/d/1RZLZBCJryJo8fACVsOVl4N_ydU61-OgJ/view?usp=drive_link)
+
+3. After changing them to release ,THEN put them into the beat banger converter, don't do it the other way around
