@@ -4,6 +4,8 @@ A multi purpose tool designed for the beat banger ps vita port
 
 If you haven't already, PLEASE read notes on the main GitHub page 
 
+Video tutorial coming soon because apparently it's much harder to use this converter than I assumed 
+
 ## Prerequisites 
 
 1. Have [this](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-8.0.20-windows-x64-installer) runtime installed 
