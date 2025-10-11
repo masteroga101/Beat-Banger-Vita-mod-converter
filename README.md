@@ -4,6 +4,10 @@ A multi purpose tool designed for the beat banger ps vita port
 
 If you haven't already, PLEASE read notes on the main GitHub page 
 
+## Prerequisites 
+
+1. Have [this](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-8.0.20-windows-x64-installer) runtime installed 
+
 ## How to use
 
 1. Move all of your RELEASE (check below if mods are legacy or demo) mods so they are all at the same file level e.g. `BBVita/Modstest/(All you downloaded mods here)`
