@@ -4,7 +4,6 @@ A multi purpose tool designed for the beat banger ps vita port
 
 If you haven't already, PLEASE read notes on the main GitHub page 
 
-Video tutorial coming soon because apparently it's much harder to use this converter than I assumed 
 
 ## Prerequisites 
 
@@ -21,6 +20,12 @@ Video tutorial coming soon because apparently it's much harder to use this conve
 4. Click on the bar to the left of your search bar and you should be given a file location, copy and paste this into the converter and press enter
 
 5. Wait until the all the mods are sorted through and command prompt has vanished, then go back to where you stored your mods and they should all be set for moving onto the vita
+
+Alternatrively watch these videos showing where you copy the file location from:
+
+[Single mods](https://youtu.be/5_ihdTH654M)
+
+[Album mods](https://youtu.be/Pgh-lVfgR4s)
 
 
 
