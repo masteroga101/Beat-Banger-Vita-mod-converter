@@ -21,13 +21,6 @@ If you haven't already, PLEASE read notes on the main GitHub page
 
 5. Wait until the all the mods are sorted through and command prompt has vanished, then go back to where you stored your mods and they should all be set for moving onto the vita
 
-You can also watch these videos if you want to see visually what file layer to use the converter on:
-
-[Single mods](https://youtu.be/5_ihdTH654M)
-
-[Album mods](https://youtu.be/Pgh-lVfgR4s)
-
-
 
 ## Legacy and demo mods
 
